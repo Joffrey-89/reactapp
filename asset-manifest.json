@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ractapp/static/css/main.08c2a384.css",
-    "main.js": "/ractapp/static/js/main.6094f16e.js",
-    "static/media/Huawei-X65-SmartVision.jpg": "/ractapp/static/media/Huawei-X65-SmartVision.6e085cc7468ce336adb3.jpg",
-    "static/media/twitter-icon.png": "/ractapp/static/media/twitter-icon.649dbd48418a1853bd3e.png",
-    "static/media/Neoqled.jpg": "/ractapp/static/media/Neoqled.5bd99f180ca7604b13be.jpg",
-    "static/media/Logo.svg": "/ractapp/static/media/Logo.ceb7125d0e56f624ee19964c5bbd9883.svg",
-    "static/media/cart.svg": "/ractapp/static/media/cart.60e62348d308622d08925a9ab34f4773.svg",
-    "index.html": "/ractapp/index.html",
-    "static/media/star.svg": "/ractapp/static/media/star.082fcf01d9aa71df75c9bacd79e19b85.svg",
-    "main.08c2a384.css.map": "/ractapp/static/css/main.08c2a384.css.map",
-    "main.6094f16e.js.map": "/ractapp/static/js/main.6094f16e.js.map"
+    "main.css": "/reactapp/static/css/main.08c2a384.css",
+    "main.js": "/reactapp/static/js/main.c6e68f4b.js",
+    "static/media/Huawei-X65-SmartVision.jpg": "/reactapp/static/media/Huawei-X65-SmartVision.6e085cc7468ce336adb3.jpg",
+    "static/media/twitter-icon.png": "/reactapp/static/media/twitter-icon.649dbd48418a1853bd3e.png",
+    "static/media/Neoqled.jpg": "/reactapp/static/media/Neoqled.5bd99f180ca7604b13be.jpg",
+    "static/media/Logo.svg": "/reactapp/static/media/Logo.ceb7125d0e56f624ee19964c5bbd9883.svg",
+    "static/media/cart.svg": "/reactapp/static/media/cart.60e62348d308622d08925a9ab34f4773.svg",
+    "index.html": "/reactapp/index.html",
+    "static/media/star.svg": "/reactapp/static/media/star.082fcf01d9aa71df75c9bacd79e19b85.svg",
+    "main.08c2a384.css.map": "/reactapp/static/css/main.08c2a384.css.map",
+    "main.c6e68f4b.js.map": "/reactapp/static/js/main.c6e68f4b.js.map"
   },
   "entrypoints": [
     "static/css/main.08c2a384.css",
-    "static/js/main.6094f16e.js"
+    "static/js/main.c6e68f4b.js"
   ]
 }
