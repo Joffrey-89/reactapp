@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactapp/static/css/main.14ea8a5f.css",
+    "main.css": "/reactapp/static/css/main.b45d6b1a.css",
     "main.js": "/reactapp/static/js/main.c6e68f4b.js",
     "static/media/Huawei-X65-SmartVision.jpg": "/reactapp/static/media/Huawei-X65-SmartVision.6e085cc7468ce336adb3.jpg",
     "static/media/twitter-icon.png": "/reactapp/static/media/twitter-icon.649dbd48418a1853bd3e.png",
@@ -9,11 +9,11 @@
     "static/media/cart.svg": "/reactapp/static/media/cart.60e62348d308622d08925a9ab34f4773.svg",
     "index.html": "/reactapp/index.html",
     "static/media/star.svg": "/reactapp/static/media/star.082fcf01d9aa71df75c9bacd79e19b85.svg",
-    "main.14ea8a5f.css.map": "/reactapp/static/css/main.14ea8a5f.css.map",
+    "main.b45d6b1a.css.map": "/reactapp/static/css/main.b45d6b1a.css.map",
     "main.c6e68f4b.js.map": "/reactapp/static/js/main.c6e68f4b.js.map"
   },
   "entrypoints": [
-    "static/css/main.14ea8a5f.css",
+    "static/css/main.b45d6b1a.css",
     "static/js/main.c6e68f4b.js"
   ]
 }
