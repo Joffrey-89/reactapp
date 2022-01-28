@@ -1,0 +1,183 @@
+body{
+	overflow-x: hidden;
+}
+
+.mt-banner {
+	overflow-x: hidden;
+	width: 100%;
+	color: black;
+	text-align: right;
+	padding: 22px 0 22px 0;
+	border-bottom: solid 3px #ffffff;
+	display: flex;
+	justify-content: flex-end;
+	flex-direction: row;
+	align-items: center;
+	background-image: linear-gradient(45deg, #131212, #36363a);
+}
+
+.mt-title {
+	text-shadow: 1px 1px 10px #f0eff5 ;
+	padding-left: 62px;
+	background-image: linear-gradient(45deg, #908e8e, rgba(177, 172, 172, 0.877), #f0f0f6);
+	background-clip: text;
+	color: transparent;
+	font-size: 3em;
+	margin: 0 150px 0 0;
+}
+.slogan{
+	color: #ecebf5;
+	text-shadow: 1px 1px 10px #ecebf5 ;
+	margin: 0 25px 0 0;
+	font-size: 1em;
+}
+
+.mt-logo {
+	height: 95px;
+	width: 95px;
+}
+.right-star{
+	margin: 0 230px 0 0px;
+}
+.left-star{
+	margin: 0 25px 0 0;
+} 
+@media screen and (max-width: 1300px) {
+	.slogan{
+		margin: 0 25px 0 0;
+		font-size: 1em;
+		color: #ecebf5;
+		text-shadow: 1px 1px 10px #ecebf5 ;
+	}
+	.right-star{
+		margin: 0 200px 0 0px;
+	}
+	.left-star{
+		margin: 0 25px 0 -50px;
+	} 
+}
+@media screen and (max-width: 900px) {
+	.slogan{
+		margin: 0 70px 0 15px;
+		font-size: 0.7em;
+		color: #ecebf5;
+		text-shadow: 1px 1px 10px #ecebf5 ;
+	}
+	.right-star{
+		position: absolute;
+		padding: 0 30px 0 50px;
+	}
+	.left-star{
+		margin: 0 0 0 -100px;
+	} 
+}
+@media screen and (max-width: 770px) {
+	.slogan{
+		margin: 0 60px 0 15px;
+		font-size: 0.6em;
+		color: #ecebf5;
+		text-shadow: 1px 1px 10px #ecebf5 ;
+	}
+	.right-star{
+		position: absolute;
+		padding: 0 30px 0 50px;
+		width: 15px;
+		height: 15px;
+	}
+	.left-star{
+		margin: 0 0 0 -100px;
+		width: 15px;
+		height: 15px;
+	} 
+	.mt-title{
+		font-size: 1.8em;
+	}
+	.mt-logo{
+		width: 75px;
+		height: 75px;
+	}
+}
+@media screen and (max-width: 520px) {
+	.slogan{
+		margin: 0 40px 0 5px;
+		font-size: 0.5em;
+		text-align: center;
+		color: #ecebf5;
+		text-shadow: 1px 1px 10px #ecebf5 ;
+	}
+	.right-star{
+		position: absolute;
+		padding: 0 15px 0 50px;
+		width: 15px;
+		height: 15px;
+	}
+	.left-star{
+		margin: 0 5px 0 -100px;
+		width: 15px;
+		height: 15px;
+	} 
+	.mt-title{
+		font-size: 1.3em;
+	}
+	.mt-logo{
+		width: 45px;
+		height: 45px;
+		margin: 0 0 0 25px;
+	}
+}
+@media screen and (max-width: 410px) {
+
+}
+@media screen and (max-width: 400px) {
+	.slogan{
+		margin: 0 50px 0 0;
+		font-size: 0.5em;
+		text-align: center;
+		color: #ecebf5;
+		text-shadow: 1px 1px 10px #ecebf5 ;
+	}
+	.right-star{
+		position: absolute;
+		padding: 0 25px 0 40px;
+		width: 15px;
+		height: 15px;
+	}
+	.left-star{
+		margin: 0 5px 0 -130px;
+		width: 15px;
+		height: 15px;
+	} 
+	.mt-title{
+		margin-left: -40px;
+		font-size: 1.3em;
+	}
+	.mt-logo{
+		width: 45px;
+		height: 45px;
+		margin: 0 0 0 25px;
+	}
+}
+@media screen and (max-width: 320px) {
+	.slogan{
+		margin: 0 20px 0 -30px;
+		font-size: 0.4em;
+		text-align: center;
+		color: #ecebf5;
+		text-shadow: 1px 1px 10px #ecebf5 ;
+	}
+	.right-star{
+		display: none;
+	}
+	.left-star{
+		display: none;
+	} 
+	.mt-title{
+		margin-right: 50px;
+		font-size: 1em;
+	}
+	.mt-logo{
+		width: 35px;
+		height: 35px;
+		margin: 0 0 0 25px;
+	}
+}

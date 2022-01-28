@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="59.634" height="37.192" viewBox="0 0 59.634 37.192">
+  <g id="Groupe_1" data-name="Groupe 1" transform="translate(-709.942 -501.808)">
+    <line id="Ligne_1" data-name="Ligne 1" x2="12.269" y2="30.304" transform="translate(718.734 502.142)" fill="none" stroke="#000" stroke-width="1"/>
+    <line id="Ligne_2" data-name="Ligne 2" x2="29.121" y2="0.148" transform="translate(730.856 532.446)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+    <line id="Ligne_3" data-name="Ligne 3" x2="47.229" y2="0.148" transform="translate(721.691 509.238)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+    <path id="Tracé_2" data-name="Tracé 2" d="M0,17.969H32.154L39.853,0" transform="translate(729.068 509.386)" fill="rgba(255,255,255,0)" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+    <path id="Tracé_1" data-name="Tracé 1" d="M314.665,412.8c-13.076,3.565-7.391,4.56-7.391,4.56" transform="translate(404.406 89.494)" fill="none" stroke="#000" stroke-width="1"/>
+    <line id="Ligne_4" data-name="Ligne 4" x2="7.095" y2="18.182" transform="translate(725.904 509.238)" fill="none" stroke="#000" stroke-width="1"/>
+    <line id="Ligne_5" data-name="Ligne 5" x2="7.095" y2="18.182" transform="translate(730.339 509.172)" fill="none" stroke="#000" stroke-width="1"/>
+    <line id="Ligne_6" data-name="Ligne 6" x2="3.548" y2="18.034" transform="translate(737.434 509.386)" fill="none" stroke="#000" stroke-width="1"/>
+    <line id="Ligne_7" data-name="Ligne 7" x2="0.887" y2="18.034" transform="translate(743.643 509.386)" fill="none" stroke="#000" stroke-width="1"/>
+    <line id="Ligne_8" data-name="Ligne 8" x1="0.266" y2="18.034" transform="translate(749.437 509.386)" fill="none" stroke="#000" stroke-width="1"/>
+    <line id="Ligne_9" data-name="Ligne 9" x1="2.335" y2="17.969" transform="translate(754.611 509.238)" fill="none" stroke="#000" stroke-width="1"/>
+    <line id="Ligne_10" data-name="Ligne 10" x1="4.109" y2="18.034" transform="translate(758.898 509.386)" fill="none" stroke="#000" stroke-width="1"/>
+    <line id="Ligne_11" data-name="Ligne 11" x2="43.016" y2="0.148" transform="translate(723.687 514.264)" fill="none" stroke="#000" stroke-width="1"/>
+    <line id="Ligne_12" data-name="Ligne 12" x2="36.808" y2="0.148" transform="translate(726.643 521.655)" fill="none" stroke="#000" stroke-width="1"/>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(733 534)" fill="rgba(255,255,255,0)" stroke="#040404" stroke-width="1">
+      <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+      <circle cx="2.5" cy="2.5" r="2" fill="none"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(750 534)" fill="rgba(255,255,255,0)" stroke="#000" stroke-width="1">
+      <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+      <circle cx="2.5" cy="2.5" r="2" fill="none"/>
+    </g>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="2" height="5" transform="translate(735 532)" fill="rgba(255,255,255,0)"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="2" height="5" rx="1" transform="translate(752 532)" fill="rgba(255,255,255,0)"/>
+  </g>
+</svg>

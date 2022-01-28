@@ -1,0 +1,674 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300&display=swap');
+
+.footer-mt-logo{
+	position: absolute;
+	margin: 0 0 0 -450px;
+	height: 95px;
+	width: 95px;
+}
+.nameFooter{
+	position: absolute;
+	margin: 100px 0 0 -970px;
+	text-shadow: 1px 1px 10px #f0eff5 ;
+	padding-left: 62px;
+	background-image: linear-gradient(45deg, #908e8e, rgba(177, 172, 172, 0.877), #f0f0f6);
+	background-clip: text;
+	color: transparent;
+	font-size: 1.5em;
+}
+.mt-footer {
+	color: #ecebf5;
+	padding: 22px 0 22px 0;
+	border-top: solid 3px #ffffff;
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: column;
+	align-items: center;
+	font-weight: 500;
+	background-image: linear-gradient(45deg, #131212, #36363a);
+	height: 350px;
+	width: 100%;
+	max-width: 100%;
+}
+.mt-footer-elem {
+	font-size: 1.2em;
+	margin-bottom: 10px;
+	font-family: 'Chakra Petch' ;
+	text-shadow: 1px 1px 10px #ecebf5 ;
+}
+input{
+	font-size: 1.2em;
+	font-family: 'Chakra Petch' ;
+	background-color: rgb(25, 25, 27) !important;
+	color: #aaa9af !important;
+	width: 20%;
+	height: 25px;
+	border-radius: 5px;
+	margin: 0 0 35px 0;
+}
+input:hover{
+	background-color: #aaa9af !important;
+	color: rgb(25, 25, 27) !important;
+}
+.submit{
+	position: absolute;
+	margin: 60px 0 0 430px;
+}
+.samsung-logo{
+	position: absolute;
+	margin: 0 0 0 400px;
+}
+.apple-logo{
+	position: absolute;
+	margin: -65px 0 0 550px;
+}
+.huawei-logo{
+	position: absolute;
+	margin: 65px 0 0 400px;
+}
+.sony-logo{
+	position: absolute;
+	margin: 75px 0 0 550px;
+}
+h4{
+	text-decoration: underline;
+	font-size: 1.2em;
+	font-family: 'Chakra Petch' ;
+	text-shadow: 1px 1px 10px #ecebf5 ;
+}
+.adress{
+	position: absolute;
+	margin: 150px 950px 0 0;
+	font-family: 'Chakra Petch' ;
+	letter-spacing: 1px;
+	text-shadow: 1px 1px 10px #ecebf5 ;
+}
+.contact{
+	position: absolute;
+	margin: 150px 0 0 0;
+	font-family: 'Chakra Petch' ;
+	letter-spacing: 1px;
+	text-shadow: 1px 1px 10px #ecebf5 ;
+}
+.socialmedia{
+	position: absolute;
+	margin: 150px 0 0 950px;
+	font-family: 'Chakra Petch' ;
+	letter-spacing: 1px;
+	text-shadow: 1px 1px 10px #ecebf5 ;
+}
+.facebook-logo{
+	position: absolute;
+	margin: -5px 0 0 -40px;
+	font-family: 'Chakra Petch' ;
+}
+.instagram-logo{
+	position: absolute;
+	margin: 0 0 0 10px;
+}
+.twitter-logo{
+	position: absolute;
+	margin: -5px 0 0 60px;
+}
+.copyright-name{
+	position: absolute;
+	margin: 350px 100px 0 0;
+	font-family: 'Chakra Petch' ;
+	text-shadow: 1px 1px 10px #f0eff5 ;
+}
+.copyright{
+	position: absolute;
+	margin: 355px 0 0 0;
+	text-shadow: 1px 1px 10px #f0eff5 ;
+}
+.date{
+	position: absolute;
+	margin: 350px 0 0 60px;
+	font-family: 'Chakra Petch' ;
+	text-shadow: 1px 1px 10px #f0eff5 ;
+}
+
+@media screen and (max-width: 1300px) {
+	.samsung-logo{
+		display: none;
+	}
+	.apple-logo{
+		display: none;
+	}
+	.huawei-logo{
+		display: none;
+	}
+	.sony-logo{
+		display: none;
+	}
+}
+@media screen and (max-width: 900px) {
+	.samsung-logo{
+		display: none;
+	}
+	.apple-logo{
+		display: none;
+	}
+	.huawei-logo{
+		display: none;
+	}
+	.sony-logo{
+		display: none;
+	}
+	button.submit{
+		margin: 70px 0 0 350px;
+	}
+	.socialmedia{
+		margin: 145px 0 0 650px;
+	}
+	.footer-mt-logo{
+		position: absolute;
+		margin: 0 0 0 -350px;
+		height: 95px;
+		width: 95px;
+	}
+	.nameFooter{
+		position: absolute;
+		margin: 100px 0 0 -770px;
+		
+	}
+	.adress{
+		position: absolute;
+		margin: 152px 650px 0 0;
+	}
+}
+@media screen and (max-width: 770px) {
+	.socialmedia{
+		margin: 145px 0 0 550px;
+	}
+	.footer-mt-logo{
+		margin: 0 0 0 -300px;
+	}
+	.nameFooter{
+		margin: 100px 0 0 -670px;
+	}
+	.adress{
+		margin: 152px 500px 0 0;
+	}
+	.contact{
+		position: absolute;
+		margin: 150px 0 0 60px;
+	}
+}
+@media screen and (max-width: 520px) {
+	button.submit{
+		margin: 50px 0 0 230px;
+	}
+	.socialmedia{
+		margin: 150px 0 0 380px;
+		font-size: 0.6em;
+	}
+	.adress{
+		margin: 152px 350px 0 0;
+		font-size: 0.6em;
+	}
+	.contact{
+		position: absolute;
+		margin: 150px 0 0 60px;
+		font-size: 0.6em;
+	}
+	input{
+		font-size: 0.6em;
+	}
+	.mt-footer-elem {
+		font-size: 0.6em;
+	}
+	.footer-mt-logo{
+		position: absolute;
+		margin: 0 0 0 -175px;
+		width: 65px;
+		height: 65px;
+	}
+	.nameFooter{
+		position: absolute;
+		margin: 70px 0 0 -420px;
+		font-size: 1.2em;
+	}
+	.facebook-logo{
+		width: 25px;
+		height: 25px;
+		margin: -5px 0 0 -20px;
+	}
+	.instagram-logo{
+		width: 25px;
+		height: 21px;
+		margin: -3px 0 0 10px;
+	}
+	.twitter-logo{
+		position: absolute;
+		width: 25px;
+		height: 25px;
+		margin: -5px 0 0 38px;
+	}
+	.copyright-name{
+		font-size: 0.6em;
+	}
+	.copyright{
+		position: absolute;
+		width: 15px;
+		height: 15px;
+		margin: 350px 0 5px -5px;
+	}
+	.date{
+		font-size: 0.6em;
+	}
+	.samsung-logo{
+		display: none;
+	}
+	.apple-logo{
+		display: none;
+	}
+	.huawei-logo{
+		display: none;
+	}
+	.sony-logo{
+		display: none;
+	}
+}
+@media screen and (max-width: 460px) {
+	.socialmedia{
+		margin: 150px 0 0 250px;
+		font-size: 0.6em;
+	}
+	.adress{
+		margin: 152px 210px 0 0;
+		font-size: 0.6em;
+	}
+	.footer-mt-logo{
+		position: absolute;
+		margin: 0 0 0 -140px;
+		width: 45px;
+		height: 45px;
+	}
+	.nameFooter{
+		position: absolute;
+		margin: 50px 0 0 -340px;
+		font-size: 1em;
+	}
+}
+@media screen and (max-width: 450px) {
+	.socialmedia{
+		margin: 150px 0 0 250px;
+		font-size: 0.6em;
+	}
+	.adress{
+		margin: 152px 220px 0 0;
+		font-size: 0.6em;
+	}
+	.footer-mt-logo{
+		position: absolute;
+		margin: 0 0 0 -140px;
+		width: 45px;
+		height: 45px;
+	}
+	.nameFooter{
+		position: absolute;
+		margin: 50px 0 0 -340px;
+		font-size: 1em;
+	}
+}
+@media screen and (max-width: 440px) {
+	.socialmedia{
+		margin: 150px 0 0 260px;
+		font-size: 0.6em;
+	}
+	.adress{
+		margin: 152px 220px 0 0;
+		font-size: 0.6em;
+	}
+	.footer-mt-logo{
+		position: absolute;
+		margin: 0 0 0 -140px;
+		width: 45px;
+		height: 45px;
+	}
+	.nameFooter{
+		position: absolute;
+		margin: 50px 0 0 -340px;
+		font-size: 1em;
+	}
+}
+@media screen and (max-width: 430px) {
+	.socialmedia{
+		margin: 150px 0 0 270px;
+		font-size: 0.6em;
+	}
+	.adress{
+		margin: 152px 220px 0 0;
+		font-size: 0.6em;
+	}
+	.footer-mt-logo{
+		position: absolute;
+		margin: 0 0 0 -140px;
+		width: 45px;
+		height: 45px;
+	}
+	.nameFooter{
+		position: absolute;
+		margin: 50px 0 0 -340px;
+		font-size: 1em;
+	}
+}
+@media screen and (max-width: 420px) {
+	.socialmedia{
+		margin: 150px 0 0 280px;
+		font-size: 0.6em;
+	}
+	.adress{
+		margin: 152px 220px 0 0;
+		font-size: 0.6em;
+	}
+	.footer-mt-logo{
+		position: absolute;
+		margin: 0 0 0 -140px;
+		width: 45px;
+		height: 45px;
+	}
+	.nameFooter{
+		position: absolute;
+		margin: 50px 0 0 -340px;
+		font-size: 1em;
+	}
+}
+@media screen and (max-width: 410px) {
+	.socialmedia{
+		margin: 150px 0 0 300px;
+		font-size: 0.6em;
+	}
+	.adress{
+		margin: 152px 220px 0 0;
+		font-size: 0.6em;
+	}
+	.footer-mt-logo{
+		position: absolute;
+		margin: 0 0 0 -140px;
+		width: 45px;
+		height: 45px;
+	}
+	.nameFooter{
+		position: absolute;
+		margin: 50px 0 0 -340px;
+		font-size: 1em;
+	}
+}
+@media screen and (max-width: 400px) {
+	button.submit{
+		margin: 50px 0 0 230px;
+	}
+	.socialmedia{
+		margin: 150px 0 0 320px;
+		font-size: 0.6em;
+	}
+	.adress{
+		margin: 152px 250px 0 0;
+		font-size: 0.6em;
+	}
+	.contact{
+		position: absolute;
+		margin: 150px 0 0 60px;
+		font-size: 0.6em;
+	}
+	input{
+		font-size: 0.6em;
+	}
+	.mt-footer-elem {
+		font-size: 0.6em;
+	}
+	.footer-mt-logo{
+		position: absolute;
+		margin: 0 0 0 -150px;
+		width: 45px;
+		height: 45px;
+	}
+	.nameFooter{
+		position: absolute;
+		margin: 50px 0 0 -360px;
+		font-size: 1em;
+	}
+	.facebook-logo{
+		width: 25px;
+		height: 25px;
+		margin: -5px 0 0 -20px;
+	}
+	.instagram-logo{
+		width: 25px;
+		height: 21px;
+		margin: -3px 0 0 10px;
+	}
+	.twitter-logo{
+		position: absolute;
+		width: 25px;
+		height: 25px;
+		margin: -5px 0 0 38px;
+	}
+	.copyright-name{
+		font-size: 0.6em;
+	}
+	.copyright{
+		position: absolute;
+		width: 15px;
+		height: 15px;
+		margin: 350px 0 5px -5px;
+	}
+	.date{
+		font-size: 0.6em;
+	}
+	.samsung-logo{
+		display: none;
+	}
+	.apple-logo{
+		display: none;
+	}
+	.huawei-logo{
+		display: none;
+	}
+	.sony-logo{
+		display: none;
+	}
+}
+@media screen and (max-width: 390px) {
+	.socialmedia{
+		margin: 150px 0 0 300px;
+		font-size: 0.6em;
+	}
+	.adress{
+		margin: 152px 220px 0 0;
+		font-size: 0.6em;
+	}
+	.footer-mt-logo{
+		position: absolute;
+		margin: 0 0 0 -140px;
+		width: 45px;
+		height: 45px;
+	}
+	.nameFooter{
+		position: absolute;
+		margin: 50px 0 0 -340px;
+		font-size: 1em;
+	}
+}
+@media screen and (max-width: 370px) {
+	.socialmedia{
+		margin: 150px 0 0 290px;
+		font-size: 0.6em;
+	}
+	.adress{
+		margin: 152px 220px 0 0;
+		font-size: 0.6em;
+	}
+	.footer-mt-logo{
+		position: absolute;
+		margin: 0 0 0 -140px;
+		width: 45px;
+		height: 45px;
+	}
+	.nameFooter{
+		position: absolute;
+		margin: 50px 0 0 -340px;
+		font-size: 1em;
+	}
+}
+@media screen and (max-width: 360px) {
+	.socialmedia{
+		margin: 150px 0 0 280px;
+		font-size: 0.6em;
+	}
+	.adress{
+		margin: 152px 220px 0 0;
+		font-size: 0.6em;
+	}
+	.footer-mt-logo{
+		position: absolute;
+		margin: 0 0 0 -140px;
+		width: 45px;
+		height: 45px;
+	}
+	.nameFooter{
+		position: absolute;
+		margin: 50px 0 0 -340px;
+		font-size: 1em;
+	}
+}
+@media screen and (max-width: 350px) {
+	.socialmedia{
+		margin: 150px 0 0 270px;
+		font-size: 0.6em;
+	}
+	.adress{
+		margin: 152px 220px 0 0;
+		font-size: 0.6em;
+	}
+	.footer-mt-logo{
+		position: absolute;
+		margin: 0 0 0 -140px;
+		width: 45px;
+		height: 45px;
+	}
+	.nameFooter{
+		position: absolute;
+		margin: 50px 0 0 -340px;
+		font-size: 1em;
+	}
+}
+@media screen and (max-width: 340px) {
+	.socialmedia{
+		margin: 150px 0 0 260px;
+		font-size: 0.6em;
+	}
+	.adress{
+		margin: 152px 220px 0 0;
+		font-size: 0.6em;
+	}
+	.footer-mt-logo{
+		position: absolute;
+		margin: 0 0 0 -140px;
+		width: 45px;
+		height: 45px;
+	}
+	.nameFooter{
+		position: absolute;
+		margin: 50px 0 0 -340px;
+		font-size: 1em;
+	}
+}
+@media screen and (max-width: 330px) {
+	.socialmedia{
+		margin: 150px 0 0 250px;
+		font-size: 0.6em;
+	}
+	.adress{
+		margin: 152px 220px 0 0;
+		font-size: 0.6em;
+	}
+	.footer-mt-logo{
+		position: absolute;
+		margin: 0 0 0 -140px;
+		width: 45px;
+		height: 45px;
+	}
+	.nameFooter{
+		position: absolute;
+		margin: 50px 0 0 -340px;
+		font-size: 1em;
+	}
+}
+@media screen and (max-width: 320px) {
+	button.submit{
+		margin: 40px 0 0 180px;
+	}
+	.socialmedia{
+		margin: 150px 0 0 230px;
+		font-size: 0.4em;
+	}
+	.adress{
+		margin: 152px 200px 0 0;
+		font-size: 0.4em;
+	}
+	.contact{
+		position: absolute;
+		margin: 150px 0 0 50px;
+		font-size: 0.4em;
+	}
+	input{
+		font-size: 0.4em;
+	}
+	.mt-footer-elem {
+		font-size: 0.4em;
+	}
+	.footer-mt-logo{
+		position: absolute;
+		margin: 0 0 0 -120px;
+		width: 35px;
+		height: 35px;
+	}
+	.nameFooter{
+		position: absolute;
+		margin: 50px 0 0 -305px;
+		font-size: 0.8em;
+	}
+	.facebook-logo{
+		width: 25px;
+		height: 25px;
+		margin: -5px 0 0 -20px;
+	}
+	.instagram-logo{
+		width: 25px;
+		height: 21px;
+		margin: -3px 0 0 10px;
+	}
+	.twitter-logo{
+		position: absolute;
+		width: 25px;
+		height: 25px;
+		margin: -5px 0 0 38px;
+	}
+	.copyright-name{
+		font-size: 0.4em;
+	}
+	.copyright{
+		position: absolute;
+		width: 12px;
+		height: 12px;
+		margin: 350px 0 5px -5px;
+	}
+	.date{
+		font-size: 0.4em;
+	}
+	.samsung-logo{
+		display: none;
+	}
+	.apple-logo{
+		display: none;
+	}
+	.huawei-logo{
+		display: none;
+	}
+	.sony-logo{
+		display: none;
+	}
+}

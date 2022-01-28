@@ -1,0 +1,38 @@
+
+.mt-layout-inner {
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	max-width: 100%;
+}
+@media screen and (max-width: 510px) {
+	
+}
+@media screen and (max-width: 500px) {
+	
+}
+@media screen and (max-width: 490px) {
+	
+}
+@media screen and (max-width: 480px) {
+	
+}
+@media screen and (max-width: 470px) {
+	
+}
+@media screen and (max-width: 460px) {
+	
+}
+@media screen and (max-width: 450px) {
+	
+}
+@media screen and (max-width: 440px) {
+	
+}
+@media screen and (max-width: 430px) {
+	
+}
+@media screen and (max-width: 412px) {
+	
+}
+

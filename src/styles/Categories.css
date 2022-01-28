@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap');
+
+.mt-categories {
+	text-align: center;
+	padding-top: 30px;
+	width: 100%;
+}
+
+.mt-categories-select {
+	margin-right: 15px;
+	background-color: #e6e6f0;
+	border-radius: 5px;
+	padding: 6px;
+	font-family: 'Maven Pro';
+	font-weight:600;
+	font-size: 1em;
+}
+option{
+	font-family: 'Maven Pro';
+	font-weight: bold;
+}
+
+@media screen and (max-width: 520px) {
+	.mt-categories-select{
+		margin: 10px 15px 25px 0;
+		font-size: 0.6em;
+	}
+}
+@media screen and (max-width: 400px) {
+	.mt-categories-select{
+		margin: 10px 15px 25px 0;
+		font-size: 0.5em;
+	}
+}
+@media screen and (max-width: 320px) {
+	.mt-categories-select{
+		margin: 0px 15px 25px 0;
+		font-size: 0.4em;
+	}
+}

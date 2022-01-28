@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="474" height="437.999" viewBox="0 0 474 437.999">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#3c3b3e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fcfcfc"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f6ebeb"/>
+      <stop offset="1" stop-color="#545454"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.931" y1="0.116" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#929097"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="0.931" y1="0.116" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.413" stop-color="#aeaeaf"/>
+      <stop offset="1" stop-color="#929097"/>
+    </linearGradient>
+  </defs>
+  <g id="Groupe_1" data-name="Groupe 1" transform="translate(-825 -287)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="451" height="289" rx="10" transform="translate(825 377)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="376" height="241" rx="5" transform="translate(862 401)" fill="url(#linear-gradient-2)"/>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="5" cy="4" rx="5" ry="4" transform="translate(1046 388)" fill="url(#linear-gradient-3)"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="32" height="30" rx="5" transform="translate(1226 398)" opacity="0.85" fill="url(#linear-gradient-4)"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="44" height="40" rx="5" transform="translate(1199 424)" opacity="0.85" fill="url(#linear-gradient-4)"/>
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="27" height="22" rx="5" transform="translate(1199 332)" fill="url(#linear-gradient-4)"/>
+    <rect id="Rectangle_13" data-name="Rectangle 13" width="24" height="23" rx="5" transform="translate(1246 332)" fill="url(#linear-gradient-7)"/>
+    <rect id="Rectangle_17" data-name="Rectangle 17" width="13" height="12" rx="3" transform="translate(1286 376)" fill="url(#linear-gradient-4)"/>
+    <rect id="Rectangle_25" data-name="Rectangle 25" width="8" height="7" rx="1" transform="translate(1250 293)" fill="url(#linear-gradient-4)"/>
+    <rect id="Rectangle_24" data-name="Rectangle 24" width="13" height="12" rx="3" transform="translate(1206 287)" fill="url(#linear-gradient-4)"/>
+    <rect id="Rectangle_23" data-name="Rectangle 23" width="19" height="18" rx="3" transform="translate(1186 305)" fill="url(#linear-gradient-4)"/>
+    <rect id="Rectangle_22" data-name="Rectangle 22" width="30" height="25" rx="3" transform="translate(1100 367)" fill="url(#linear-gradient-4)"/>
+    <rect id="Rectangle_21" data-name="Rectangle 21" width="20" height="21" rx="3" transform="translate(1221 358)" fill="url(#linear-gradient-4)"/>
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="16" height="17" rx="3" transform="translate(1226 311)" fill="url(#linear-gradient-4)"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="46" height="44" rx="5" transform="translate(1147 331)" fill="url(#linear-gradient-4)"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="39" height="37" rx="5" transform="translate(1154 386)" fill="url(#linear-gradient-4)"/>
+    <path id="Union_1" data-name="Union 1" d="M3678,153a5,5,0,0,1-5-5V124.25a5,5,0,0,1,5-5h54.031V108h79.938v11.25H3866a5,5,0,0,1,5,5V148a5,5,0,0,1-5,5Z" transform="translate(-2717 572)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="42" height="36" rx="5" transform="translate(1223 454)" fill="url(#linear-gradient-4)"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="33" height="27" rx="5" transform="translate(1237 366)" fill="url(#linear-gradient-4)"/>
+  </g>
+</svg>
